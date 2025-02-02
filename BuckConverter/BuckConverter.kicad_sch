@@ -347,6 +347,16 @@
 			)
 		)
 	)
+	(text "TESTING KICAD + GITHUB (Andrew Nguyen)"
+		(exclude_from_sim no)
+		(at 70.104 119.888 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "307fba85-f9b1-441c-8f17-527a63188d41")
+	)
 	(label "PWM"
 		(at 24.13 86.36 180)
 		(effects
